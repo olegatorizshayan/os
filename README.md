@@ -1,6 +1,5 @@
 # os
 my os labs
-# (1)
 # Tree:
 apr4(/ apr2/ apr5)(/ apr3/apr6)(/ apr1)
 # Place of creation
@@ -14,27 +13,27 @@ apr1
 # Exersize 3
 84
 # Code
-1.
+# 1.
   537  cd ~
   538  mkdir Zadorozhnyi
   539  cd Zadorozhnyi/
   540  mkdir bin
   541  mkdir -p apr4/apr2/apr5 apr4/apr3/apr6 /apr4/apr1
   542  sudo mkdir -p apr4/apr2/apr5 apr4/apr3/apr6 /apr4/apr1
-2.
+# 2.
   544  ls
   545  cd apr4/
   546  ls
   547  cd apr2/apr5/
   548  vim ../../../bin/cmd1
-3.
+# 3.
   550  cd ..
   551  ls
   552  cd ..
   553  ls
   554  cd apr3
   555  chmod a+x ../../bin/cmd1
-4.
+# 4.
   557  ls
   558  cd ..
   559  ls
@@ -56,7 +55,7 @@ apr1
   575  ./../../bin/cmd1 3 4 5 6 7 8
   576  ls
   577  du
-5.
+# 5.
   579  ls
   580  cd ..
   581  ls
@@ -75,7 +74,7 @@ apr1
   594  vim cmd2
   595  ./cmd2
   596  cat ../apr4/apr2/f2
-6.
+# 6.
   598  vim cmd2
   599  ./cmd2
   600  vim cmd2
