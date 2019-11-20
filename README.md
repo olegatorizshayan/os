@@ -207,7 +207,6 @@ apr1
   
   635  cat f13
   
-# bin
 # cmd1
 mkdir -p $4/$2/$5 $4/$3/$6 $4/$1
 # cmd2
