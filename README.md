@@ -15,6 +15,7 @@ apr1
 # Code
 # 1.
   537  cd ~
+  
   538  mkdir Zadorozhnyi
   539  cd Zadorozhnyi/
   540  mkdir bin
